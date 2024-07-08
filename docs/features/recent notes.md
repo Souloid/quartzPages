@@ -1,6 +1,8 @@
 ---
 title: Recent Notes
 tags: component
+created: 2024-07-07 @ 23:03:09 PM
+updated: 2024-07-07 @ 23:03:09 PM
 ---
 
 Quartz can generate a list of recent notes based on some filtering and sorting criteria. Though this component isn't included in any [[layout]] by default, you can add it by using `Component.RecentNotes` in `quartz.layout.ts`.

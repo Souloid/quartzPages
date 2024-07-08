@@ -2,6 +2,8 @@
 title: ContentPage
 tags:
   - plugin/emitter
+created: 2024-07-07 @ 23:03:09 PM
+updated: 2024-07-07 @ 23:03:09 PM
 ---
 
 This plugin is a core component of the Quartz framework. It generates the HTML pages for each piece of Markdown content. It emits the full-page [[layout]], including headers, footers, and body content, among others.

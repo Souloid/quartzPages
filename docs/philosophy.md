@@ -1,5 +1,7 @@
 ---
 title: Philosophy of Quartz
+created: 2024-07-07 @ 23:03:09 PM
+updated: 2024-07-07 @ 23:03:09 PM
 ---
 
 ## A garden should be a true hypertext

@@ -1,3 +1,7 @@
+---
+created: 2024-07-07 @ 23:03:09 PM
+updated: 2024-07-07 @ 23:03:09 PM
+---
 # Citizen Code of Conduct
 
 ## 1. Purpose

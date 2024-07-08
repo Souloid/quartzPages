@@ -1,5 +1,7 @@
 ---
-title: "Quartz Showcase"
+title: Quartz Showcase
+created: 2024-07-07 @ 23:03:09 PM
+updated: 2024-07-07 @ 23:03:09 PM
 ---
 
 Want to see what Quartz can do? Here are some cool community gardens:
