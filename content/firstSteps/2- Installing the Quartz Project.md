@@ -1,9 +1,9 @@
 ---
-title: Installing the Quartz Project
+title: 2- Installing the Quartz Project
 draft: false
-tags: []
+tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 03:07:52 AM
+updated: 2024-07-08 @ 04:59:57 AM
 ---
 
 In your WSL (or linux) let's make sure you're in the home directory just so we're all on the same starting point.

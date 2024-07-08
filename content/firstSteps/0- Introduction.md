@@ -1,9 +1,9 @@
 ---
-title: Introduction
+title: 0- Introduction
 draft: false
 tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 04:08:36 AM
+updated: 2024-07-08 @ 04:59:44 AM
 ---
  
 I'm going to be writing about my experience trying to setup this project.

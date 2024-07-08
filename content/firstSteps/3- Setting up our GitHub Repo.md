@@ -1,9 +1,9 @@
 ---
-title: Setting up our GitHub Repo
+title: 3- Setting up our GitHub Repo
 draft: false
-tags: []
+tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 03:42:39 AM
+updated: 2024-07-08 @ 05:00:02 AM
 ---
  
 Go to https://github.com/ and register. Make a new Repository and follow the instructions from this [Quartz Page](https://quartz.jzhao.xyz/setting-up-your-GitHub-repository). 

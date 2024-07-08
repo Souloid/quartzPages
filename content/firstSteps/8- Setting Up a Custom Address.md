@@ -1,9 +1,9 @@
 ---
-title: Setting Up a Custom Address
+title: 8- Setting Up a Custom Address
 draft: false
-tags: []
+tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 04:57:28 AM
+updated: 2024-07-08 @ 05:00:39 AM
 ---
  
 # Buy (rent) A Domain

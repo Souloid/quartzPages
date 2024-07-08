@@ -1,9 +1,9 @@
 ---
-title: Installing Obsidian
+title: 4- Installing Obsidian
 draft: false
-tags: []
+tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 03:52:53 AM
+updated: 2024-07-08 @ 05:00:05 AM
 ---
 
 I tried to open the files for this project using my local obsidian app (on windows) but it couldn't connect to the networked WSL so I had to open firefox to install obsidian locally in WSL and try to use that.

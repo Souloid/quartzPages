@@ -1,10 +1,10 @@
 ---
 title: Building your Quartz
 created: 2024-07-07 @ 23:03:09 PM
-updated: 2024-07-07 @ 23:03:09 PM
+updated: 2024-07-08 @ 05:01:51 AM
 ---
 
-Once you've [[index#🪴 Get Started|initialized]] Quartz, let's see what it looks like locally:
+Once you've [[docs/index#🪴 Get Started|initialized]] Quartz, let's see what it looks like locally:
 
 ```bash
 npx quartz build --serve

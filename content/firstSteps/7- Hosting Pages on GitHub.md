@@ -1,9 +1,9 @@
 ---
-title: Hosting Pages on GitHub
+title: 7- Hosting Pages on GitHub
 draft: false
-tags: []
+tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 04:48:23 AM
+updated: 2024-07-08 @ 05:00:34 AM
 ---
  
 # Configuring Quartz

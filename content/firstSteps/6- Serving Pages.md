@@ -1,9 +1,9 @@
 ---
-title: Serving Pages
+title: 6- Serving Pages
 draft: false
-tags: []
+tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 04:41:31 AM
+updated: 2024-07-08 @ 05:00:30 AM
 ---
  
 Upon syncing to github I noticed that my time properties are displayed in github

@@ -1,9 +1,9 @@
 ---
-title: Configuring Obsidian
+title: 5- Configuring Obsidian
 draft: false
-tags: []
+tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 04:29:52 AM
+updated: 2024-07-08 @ 05:00:09 AM
 ---
 # Intro to quartz in obsidian
 

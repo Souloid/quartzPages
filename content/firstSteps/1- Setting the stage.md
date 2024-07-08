@@ -1,9 +1,9 @@
 ---
-title: Setting the stage
+title: 1- Setting the stage
 draft: false
-tags: []
+tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 02:39:57 AM
+updated: 2024-07-08 @ 04:59:50 AM
 ---
 So I wanted a safe sandbox for me to play with, since I unfortunately use windows I decided to play with a WSL ubuntu instance so that I can just wipe it all out if it breaks. 
 
