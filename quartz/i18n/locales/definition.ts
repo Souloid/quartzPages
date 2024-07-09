@@ -34,8 +34,9 @@ export interface Translation {
     explorer: {
       title: string
     }
+    // footer definition that required the Ad
     footer: {
-      createdWith: string
+      //createdWith: string
     }
     graph: {
       title: string

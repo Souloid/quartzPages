@@ -32,8 +32,9 @@ export default {
     explorer: {
       title: "Explorer",
     },
+    // This is the footer ad that's everywhere
     footer: {
-      createdWith: "Created with",
+      //createdWith: "Created with",
     },
     graph: {
       title: "Graph View",
