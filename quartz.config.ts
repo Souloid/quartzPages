@@ -8,6 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
+    // That Label on the top left
     pageTitle: "Souloid",
     enableSPA: true,
     enablePopovers: true,
