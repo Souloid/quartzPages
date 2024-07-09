@@ -3,7 +3,7 @@ title: 0- Introduction
 draft: false
 tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 04:59:44 AM
+updated: 2024-07-08 @ 23:21:44 PM
 ---
  
 I'm going to be writing about my experience trying to setup this project.
@@ -27,3 +27,5 @@ To get this done we're going to do things in 3 steps:
 1. Design the web page(s) using Obsidian
 2. Transform these pages into websites using Quartz
 3. Host them online so people can get them using GitHub Pages (Cause like all knowledge it ***should*** be FREE~) 
+
+Let's begin with our [[1- Setting the stage|environment]] :)

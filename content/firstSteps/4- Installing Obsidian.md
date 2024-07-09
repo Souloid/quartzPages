@@ -3,7 +3,7 @@ title: 4- Installing Obsidian
 draft: false
 tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 05:00:05 AM
+updated: 2024-07-08 @ 23:26:22 PM
 ---
 
 I tried to open the files for this project using my local obsidian app (on windows) but it couldn't connect to the networked WSL so I had to open firefox to install obsidian locally in WSL and try to use that.
@@ -55,4 +55,4 @@ Ran into issues that were fixed with `sudo apt --fix-broken install -y`
 
 We're finally there. Open the WSL instance of obsidian by typing `obsidian`
 
-See you in the next page :3
+See you in the [[5- Configuring Obsidian|next page]] :3

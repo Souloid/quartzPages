@@ -3,7 +3,7 @@ title: 5- Configuring Obsidian
 draft: false
 tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 05:00:09 AM
+updated: 2024-07-08 @ 23:26:51 PM
 ---
 # Intro to quartz in obsidian
 
@@ -63,4 +63,4 @@ This is my first time using this. For now I started by naming this project first
 
 I think this is good enough for Obsidian. Let's move on to shipping those pages off.
 
-See in the next page :) (Serving Pages)
+See in the [[6- Serving Pages|next page]] :)

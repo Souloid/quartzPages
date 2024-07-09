@@ -3,7 +3,7 @@ title: 3- Setting up our GitHub Repo
 draft: false
 tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 05:00:02 AM
+updated: 2024-07-08 @ 23:26:03 PM
 ---
  
 Go to https://github.com/ and register. Make a new Repository and follow the instructions from this [Quartz Page](https://quartz.jzhao.xyz/setting-up-your-GitHub-repository). 
@@ -87,5 +87,5 @@ npx quartz sync --no-pull
 
 AND~ it's DONE!!! it worked! it sent it to my repo and the files in the repo on github changed!
 
-You hungry? I'm hungry... let's take a break and I'll see you in the next page (Installing Obsidian)
+You hungry? I'm hungry... let's take a break and I'll see you in the next page ([[4- Installing Obsidian|Installing Obsidian]])
 

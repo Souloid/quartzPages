@@ -3,7 +3,7 @@ title: 6- Serving Pages
 draft: false
 tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 05:00:30 AM
+updated: 2024-07-08 @ 23:27:18 PM
 ---
  
 Upon syncing to github I noticed that my time properties are displayed in github
@@ -35,4 +35,4 @@ This will use your template to modify that new note into the proper syntax for Q
 With this we're creating pages :D 
 Congrats now you're an artist :3
 
-Let's go figure out how to host these pages online using our github repo.
+Let's go figure out [[7- Hosting Pages on GitHub|how to host these pages online using our github repo]].

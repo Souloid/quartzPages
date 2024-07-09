@@ -3,7 +3,7 @@ title: Explorer
 tags:
   - component
 created: 2024-07-07 @ 23:03:09 PM
-updated: 2024-07-07 @ 23:03:09 PM
+updated: 2024-07-08 @ 23:29:27 PM
 ---
 
 Quartz features an explorer that allows you to navigate all files and folders on your site. It supports nested folders and is highly customizable.
@@ -45,7 +45,7 @@ When passing in your own options, you can omit any or all of these fields if you
 Want to customize it even more?
 
 - Removing explorer: remove `Component.Explorer()` from `quartz.layout.ts`
-  - (optional): After removing the explorer component, you can move the [[table of contents | Table of Contents]] component back to the `left` part of the layout
+  - (optional): After removing the explorer component, you can move the [[docs/features/table of contents| Table of Contents]] component back to the `left` part of the layout
 - Changing `sort`, `filter` and `map` behavior: explained in [[#Advanced customization]]
 - Component:
   - Wrapper (Outer component, generates file tree, etc): `quartz/components/Explorer.tsx`

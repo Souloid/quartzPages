@@ -3,7 +3,7 @@ title: 7- Hosting Pages on GitHub
 draft: false
 tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 05:00:34 AM
+updated: 2024-07-08 @ 23:27:49 PM
 ---
  
 # Configuring Quartz
@@ -64,4 +64,4 @@ Check it out! Go with your favorite browser to the link `githubUsername.github.i
 
 CONGRATS!!!!~~~~
 
-I'm gonna go buy(rent) myself a domain name (aka website address) so I can make it look fancy in the address bar. I don't wanna see github.io and stuff out there D:
+I'm gonna go buy(rent) myself a domain name (aka website address) so I can [[8- Setting Up a Custom Address|make it look fancy in the address bar]]. I don't wanna see github.io and stuff out there D:

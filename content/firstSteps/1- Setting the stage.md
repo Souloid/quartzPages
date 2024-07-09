@@ -3,7 +3,7 @@ title: 1- Setting the stage
 draft: false
 tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 04:59:50 AM
+updated: 2024-07-08 @ 23:23:36 PM
 ---
 So I wanted a safe sandbox for me to play with, since I unfortunately use windows I decided to play with a WSL ubuntu instance so that I can just wipe it all out if it breaks. 
 
@@ -31,3 +31,5 @@ sudo apt update && sudo apt upgrade -y
 update will get you the latest list of updates for your linux kernel, and upgrade will install them. the "-y" parameter will answer "yes" for you when it asks if you want to download the files.
 7. Type in your password that you definitely remember
 8. AND our sandbox is ready~ congrats 
+
+Next we're going to grab this [[2- Installing the Quartz Project|cool project]] that will help us build those websites (md -> html). 

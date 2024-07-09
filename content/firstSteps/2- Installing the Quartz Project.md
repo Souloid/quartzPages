@@ -3,7 +3,7 @@ title: 2- Installing the Quartz Project
 draft: false
 tags: 
 created: 2024-07-08 @ 00:47:44 AM
-updated: 2024-07-08 @ 04:59:57 AM
+updated: 2024-07-08 @ 23:25:32 PM
 ---
 
 In your WSL (or linux) let's make sure you're in the home directory just so we're all on the same starting point.
@@ -63,6 +63,6 @@ This is where I might change things in the future. Setting up I chose "treat lin
   • Hosting your Quartz online (see: https://quartz.jzhao.xyz/hosting)
 ```
 
-See you in the next page (setting up our github repo) :)
+See you in the next page ([[3- Setting up our GitHub Repo|setting up our github repo]]) :)
 
 
